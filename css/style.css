@@ -13,7 +13,7 @@ body {
     flex-direction: column;
     align-items: center;
     position: relative;
-    top : 270px;
+    top : 100px;
 }
 
 table, th, td {
